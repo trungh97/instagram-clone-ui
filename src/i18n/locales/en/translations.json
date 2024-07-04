@@ -1,0 +1,22 @@
+{
+  "loginPage": {
+    "metaLinks": {
+      "meta": "Meta",
+      "about": "About",
+      "blog": "Blog",
+      "jobs": "Jobs",
+      "help": "Help",
+      "api": "API",
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "locations": "Locations",
+      "lite": "Instagram Lite",
+      "threads": "Threads",
+      "contact": "Contact Uploading & Non-Users",
+      "verified": "Meta Verified"
+    }
+  },
+  "signupPage": {
+    "description": "Sign up to see photos and videos from your friends."
+  }
+}

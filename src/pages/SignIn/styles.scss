@@ -1,0 +1,33 @@
+@keyframes login-image {
+  0% {
+    opacity: 0;
+  }
+  20% {
+    opacity: 1;
+  }
+  25% {
+    opacity: 1;
+  }
+  45% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+#screenshot1 {
+  animation: login-image 16s infinite;
+}
+
+#screenshot2 {
+  animation: login-image 16s infinite 4s;
+}
+
+#screenshot3 {
+  animation: login-image 16s infinite 8s;
+}
+
+#screenshot4 {
+  animation: login-image 16s infinite 12s;
+}

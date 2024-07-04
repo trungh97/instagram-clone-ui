@@ -1,0 +1,19 @@
+{
+  "loginPage": {
+    "metaLinks": {
+      "meta": "Meta",
+      "about": "Información",
+      "blog": "Blog",
+      "jobs": "Empleo",
+      "help": "Ayuda",
+      "api": "API",
+      "privacy": "Privacidad",
+      "terms": "Condiciones",
+      "locations": "Ubicaciones",
+      "lite": "Instagram Lite",
+      "threads": "Threads",
+      "contact": "Importación de contactos y no usuarios",
+      "verified": "Meta Verified"
+    }
+  }
+}
